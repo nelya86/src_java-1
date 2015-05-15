@@ -10,6 +10,8 @@ package p20150508e4;
  */
 public class InfoUtils {
 
+//Aqui ha estado Noelia Fernandez Paredes.
+
     /**
      * Devuelve la cantidad de memoria pasada como argumento, pero normalizada a bytes.
      * @param memoria Dato original, entero positivo, que puede contener al final K, M, G o T
